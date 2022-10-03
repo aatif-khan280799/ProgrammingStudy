@@ -32,6 +32,7 @@ void Sort012(vector<int> &arr, int n)
             high--;
         }
     }
+    // sort(arr.begin(), arr.end());   --> using STL bruteforce method.
 }
 int main()
 {
