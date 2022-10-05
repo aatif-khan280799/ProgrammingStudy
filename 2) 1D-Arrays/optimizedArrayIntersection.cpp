@@ -54,6 +54,5 @@ int main()
     printArray(arr2, arr2.size());
     cout << "Intersection of both arrays are: ";
     findIntersection(arr1, arr1.size(), arr2, arr2.size());
-
     return 0;
 }
