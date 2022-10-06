@@ -32,6 +32,5 @@ int main()
     cout << "Input array is: ";
     printArray(arr, n);
     cout << "Missing number is : " << missingNumber(arr);
-    // missingNumber(arr);
     return 0;
 }
